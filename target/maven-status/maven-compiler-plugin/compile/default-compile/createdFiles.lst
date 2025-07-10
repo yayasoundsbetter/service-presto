@@ -1,0 +1,8 @@
+com\yaya\presto\PrestoExpeditionServiceApplication.class
+com\yaya\presto\model\Shipment.class
+com\yaya\presto\model\ShipmentRequest.class
+com\yaya\presto\model\Shipment$Status.class
+com\yaya\presto\notifications\AccentNotifier.class
+com\yaya\presto\controller\ShipmentController.class
+com\yaya\presto\repository\ShipmentRepository.class
+com\yaya\presto\service\ShipmentService.class
