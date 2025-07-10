@@ -1,6 +1,6 @@
-package com.presto.notifications;
+package com.yaya.presto.notifications;
 
-import com.presto.model.Shipment;
+import com.yaya.presto.model.Shipment;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.*;
 import org.springframework.stereotype.Service;

@@ -1,6 +1,6 @@
-package com.presto.repository;
+package com.yaya.presto.repository;
 
-import com.presto.model.Shipment;
+import com.yaya.presto.model.Shipment;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.time.LocalDateTime;

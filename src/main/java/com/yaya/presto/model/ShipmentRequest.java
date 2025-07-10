@@ -1,4 +1,4 @@
-package com.presto.model;
+package com.yaya.presto.model;
 
 
 import java.util.UUID;

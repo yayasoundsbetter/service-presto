@@ -1,8 +1,8 @@
-package com.presto.service;
+package com.yaya.presto.service;
 
-import com.presto.model.Shipment;
-import com.presto.notifications.AccentNotifier;
-import com.presto.repository.ShipmentRepository;
+import com.yaya.presto.model.Shipment;
+import com.yaya.presto.notifications.AccentNotifier;
+import com.yaya.presto.repository.ShipmentRepository;
 import org.springframework.stereotype.Service;
 
 import java.time.LocalDateTime;

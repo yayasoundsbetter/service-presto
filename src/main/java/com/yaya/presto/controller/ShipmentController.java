@@ -1,8 +1,8 @@
-package com.presto.controller;
+package com.yaya.presto.controller;
 
-import com.presto.model.Shipment;
-import com.presto.service.ShipmentService;
-import com.presto.model.ShipmentRequest;
+import com.yaya.presto.model.Shipment;
+import com.yaya.presto.service.ShipmentService;
+import com.yaya.presto.model.ShipmentRequest;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
